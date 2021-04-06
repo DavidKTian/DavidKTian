@@ -1,0 +1,33 @@
+#miles to feet and feet to miles program
+
+def conversion(UGI):
+  
+  UGI=input("If you want to convert feet to miles, write ft. If you want to convert miles to feet, write m.")
+
+
+  if UGI=="ft":
+      try:
+        number=input("What is the length in feet?")
+        number=float(number)
+        result=number/5280 
+        print("The distance is",result,"miles.")
+      except: 
+        print("Please use only numbers")
+      finally: 
+        print("Thank you for using my program.")
+  if UGI=="m":
+    try:
+      number=input("What is the length in miles?")
+      number=float(number)
+      result=number*5280
+      print("The distance is",result,"feet.")
+    except: 
+       print("Please use only numbers")
+    finally: 
+      print("Thank you for using my program.")
+
+  else:
+    print("Please write only ft or m.")
+    conversion(UGI)
+
+
