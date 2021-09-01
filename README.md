@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavidKTian
-- 👀 I’m interested in learning Python, foreign languages, martial arts, guitar, and much more!
+- 👀 I’m interested in learning Python, HTML, CSS, JavaScript, and much more! I also like fitness, music, foreign languages, and writing.
 - 💞️ I’m looking to collaborate on anything, but I'm still a beginner!
 - 📫 How to reach me: You can message me here or on any social media! 
 
